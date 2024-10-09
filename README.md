@@ -36,3 +36,6 @@ A arquitetura MOM é ideal para desacoplar os componentes, garantindo escalabili
 ├── .env                    # Variáveis de ambiente
 ├── requirements.txt         # Dependências do Python
 └── docker-compose.yml       # Arquivo para Docker Compose (MongoDB e RabbitMQ)
+
+![image](https://github.com/user-attachments/assets/2b59a070-b74b-48b3-8f5a-026763ae4370)
+
